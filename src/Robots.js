@@ -28,5 +28,35 @@ export const robots = [
         name: 'Hamza Dauda',
         username: 'Hamzy',
         email: 'hamzadauda@gmail.com',
+    },
+    {
+        id: 6,
+        name: 'Yakubu Ibrahim',
+        username: 'IB',
+        email: 'yakubuibrahim@gmail.com',
+    },
+    {
+        id: 7,
+        name: 'Micheal Ghost',
+        username: 'Ghost',
+        email: 'michaelghost@gmail.com',
+    },
+    {
+        id: 8,
+        name: 'Chioma Obi',
+        username: 'ChiChi',
+        email: 'chichi.obi@gmail.com',
+    },
+    {
+        id: 9,
+        name: 'Taiwo Bakare',
+        username: 'TPain',
+        email: 'taiwobakare@gmail.com',
+    },
+    {
+        id: 10,
+        name: 'Zainab Adenekun',
+        username: 'Zizi',
+        email: 'hamzadauda@gmail.com',
     }
 ]
