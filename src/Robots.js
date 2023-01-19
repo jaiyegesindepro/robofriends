@@ -55,7 +55,7 @@ export const robots = [
     },
     {
         id: 10,
-        name: 'Zainab Adenekun',
+        name: 'Zainab Adenekan',
         username: 'Zizi',
         email: 'hamzadauda@gmail.com',
     }

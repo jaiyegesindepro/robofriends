@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CardList from './CardList';
-import { robots } from './Robots';
+import App from './App.js';
+
 //import registerServiceWorker from './registerServiceWorker';
 //import reportWebVitals from './reportWebVitals';
 import 'tachyons';
@@ -13,9 +13,7 @@ root.render(
     <App />
   </React.StrictMode>
 ); */
-ReactDOM.render(
-                <CardList robots = {robots}/>, 
-document.getElementById('root'));
+ReactDOM.render(<App/>,document.getElementById('root'));
 //registerServiceWorker();
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
